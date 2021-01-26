@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: Minecraft random seed speedrun bot
 - 🌱 I’m currently learning: C++, JavaScript
 - 📫 How to reach me: maslenj4@gmail.com
 - 😄 Pronouns: he/him
