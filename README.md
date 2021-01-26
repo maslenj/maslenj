@@ -7,4 +7,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to play chess!
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maslenj)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maslenj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
