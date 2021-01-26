@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on: Minecraft RSG speedrun bot
 - 🌱 I’m currently learning: C++, JavaScript
-- 👯 I’m looking to collaborate on: Anything
 - 📫 How to reach me: maslenj4@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to play chess!
